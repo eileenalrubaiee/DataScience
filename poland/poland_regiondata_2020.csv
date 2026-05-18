@@ -1,0 +1,19 @@
+WOJEWÓDZTWA,Einwohner in Tsd.,Bev.dichte na 1km^2,BIP in mln PLN,BIP pro Kopf,Meereszugang,Flüsse,x̄ Höhe in m,x̄ Lufttemperatur in C,x̄ Niederschlag in mm,Landwirtschaft in tsd. ha,Fläche in tsd. ha
+Mazowieckie*,"5423,2",153,477857,88626,nein,"Wisła, Narew",146,"10,9",394,"1958,1","3555,8"
+Śląskie,"4517,6",366,260532,57384,nein,"Wisła, Odra",337,"10,5",758,"357,8","1233,3"
+Wielkopolskie,"3498,7",117,208190,59643,nein,"Warta, Noteć",110,"10,9",374,"1752,5","2982,7"
+Małopolskie,"3410,9",225,172708,50861,nein,"Wisła, Dunajec",450,"10,4",811,"567,1","1518,3"
+Dolnośląskie,"2900,2",145,175690,60562,nein,"Odra, Bóbr",269,"9,4",679,"906,1","1994,7"
+Łódzkie,"2454,8",135,126981,51397,nein,"Warta, Pilica",168,"10,3",388,977,"1821,9"
+Pomorskie,"2343,9",128,124953,53669,ja,"Wisła, Słupia",76,"9,9",647,"752,8","1832,4"
+Podkarpackie,"2127,2",119,83062,39019,nein,"San, Wisłok",333,"10,5",518,"571,4","1784,6"
+Lubelskie,"2108,3",84,79472,37458,nein,"Odra, Warta",182,10,533,"1443,4","2512,3"
+Kujawsko-pomorskie,"2072,4",115,93294,44854,nein,"Wisła, Brda",98,"10,5",472,"1029,2","1797,1"
+Zachodniopomorskie,"1696,2",74,78252,45949,ja,"Odra, Parsęta",58,"10,8",608,"846,3","2290,5"
+Warmińsko-mazurskie,"1422,7",59,54524,38094,ja,"Łyna, Drwęca",105,"9,6",672,"925,3","2417,3"
+Świętokrzyskie,1234,105,49683,39926,nein,"Wisła, Nida",229,"9,7",694,"461,8","1171,1"
+Podlaskie,"1178,4",58,46860,53669,nein,"Narew, Biebrza, Bug",138,"9,2",552,"1087,3","2018,7"
+Lubuskie,"1011,6",72,46145,45443,nein,"Odra, Warta",80,11,533,"398,9","1398,8"
+Opolskie,"982,6",104,43353,43879,nein,"Odra, Nysa Kłodzka",254,"11,2",470,"515,6","941,2"
+*warszawski stołeczny,"3085,6",505,,,,,,,,,
+*mazowiecki regionalny,"2337,6",79,,,,,,,,,
