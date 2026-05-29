@@ -1,0 +1,62 @@
+source_file,Year,Agricultural_Land_Percent,Region,Coastline_2010_km,Coastline_2020_km,GDP_2010_billion_pounds,GDP_per_head_2010,Rank,River,Length_km,Navigable,City,Population_2010,Population_2020,Highest_Mountain,Height_m,Mountain_Range,Avg_Temp_C_2010,Rainfall,Climate_Type,Avg_Temp_C_2020,Rainfall_mm,Sunshine_hours,Climate_Record,Special_Features,Resource,Economic_Importance,GDP_2020_million_pounds,GDP_per_head_2020,Real_GDP_growth_percent
+agriculture.csv,2010,71,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+agriculture.csv,2020,71,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+coastline.csv,,,England,4422,4422,,,,,,,,,,,,,,,,,,,,,,,,,
+coastline.csv,,,Scotland,9910,9910,,,,,,,,,,,,,,,,,,,,,,,,,
+coastline.csv,,,Wales,1200,1200,,,,,,,,,,,,,,,,,,,,,,,,,
+coastline.csv,,,Northern Ireland,539,539,,,,,,,,,,,,,,,,,,,,,,,,,
+gdp_2010.csv,,,UK total,,,1497.8,24010,,,,,,,,,,,,,,,,,,,,,,,
+gdp_2010.csv,,,England,,,1284.1,24968,,,,,,,,,,,,,,,,,,,,,,,
+gdp_2010.csv,,,North East,,,45.2,17445,,,,,,,,,,,,,,,,,,,,,,,
+gdp_2010.csv,,,North West,,,141.9,20239,,,,,,,,,,,,,,,,,,,,,,,
+gdp_2010.csv,,,Yorkshire and The Humber,,,92.8,17418,,,,,,,,,,,,,,,,,,,,,,,
+gdp_2010.csv,,,East Midlands,,,81.4,18049,,,,,,,,,,,,,,,,,,,,,,,
+gdp_2010.csv,,,West Midlands,,,99.3,17741,,,,,,,,,,,,,,,,,,,,,,,
+gdp_2010.csv,,,East of England,,,121.0,21043,,,,,,,,,,,,,,,,,,,,,,,
+gdp_2010.csv,,,London,,,290.3,36248,,,,,,,,,,,,,,,,,,,,,,,
+gdp_2010.csv,,,South East,,,210.7,25043,,,,,,,,,,,,,,,,,,,,,,,
+gdp_2010.csv,,,South West,,,98.2,18479,,,,,,,,,,,,,,,,,,,,,,,
+gdp_2010.csv,,,Wales,,,48.9,16085,,,,,,,,,,,,,,,,,,,,,,,
+gdp_2010.csv,,,Scotland,,,105.0,20247,,,,,,,,,,,,,,,,,,,,,,,
+gdp_2010.csv,,,Northern Ireland,,,33.0,18317,,,,,,,,,,,,,,,,,,,,,,,
+rivers.csv,,,,,,,,1,River Severn,354,Teilweise,,,,,,,,,,,,,,,,,,,
+rivers.csv,,,,,,,,2,River Thames,346,Ja,,,,,,,,,,,,,,,,,,,
+rivers.csv,,,,,,,,3,River Trent,297,Teilweise,,,,,,,,,,,,,,,,,,,
+rivers.csv,,,,,,,,4,River Great Ouse,230,Teilweise,,,,,,,,,,,,,,,,,,,
+rivers.csv,,,,,,,,5,River Wye,215,Nein,,,,,,,,,,,,,,,,,,,
+population.csv,,,England,,,,,,,,,London,8173900,8961900,,,,,,,,,,,,,,,,
+population.csv,,,England,,,,,,,,,Birmingham,1073000,1145000,,,,,,,,,,,,,,,,
+population.csv,,,Scotland,,,,,,,,,Glasgow,584000,633000,,,,,,,,,,,,,,,,
+population.csv,,,England,,,,,,,,,Leeds,770800,793100,,,,,,,,,,,,,,,,
+population.csv,,,England,,,,,,,,,Sheffield,525800,556500,,,,,,,,,,,,,,,,
+population.csv,,,England,,,,,,,,,Manchester,498800,553000,,,,,,,,,,,,,,,,
+population.csv,,,Scotland,,,,,,,,,Edinburgh,477600,524900,,,,,,,,,,,,,,,,
+population.csv,,,England,,,,,,,,,Liverpool,466400,498000,,,,,,,,,,,,,,,,
+population.csv,,,England,,,,,,,,,Bristol,433600,467000,,,,,,,,,,,,,,,,
+population.csv,,,Wales,,,,,,,,,Cardiff,341000,362000,,,,,,,,,,,,,,,,
+mountains.csv,,,England,,,,,,,,,,,,Scafell Pike,978,Lake District / Pennines,,,,,,,,,,,,,
+mountains.csv,,,Wales,,,,,,,,,,,,Snowdon,1085,Snowdonia,,,,,,,,,,,,,
+mountains.csv,,,Scotland,,,,,,,,,,,,Ben Nevis,1344,Highlands,,,,,,,,,,,,,
+mountains.csv,,,Northern Ireland,,,,,,,,,,,,Slieve Donard,850,Mourne Mountains,,,,,,,,,,,,,
+climate_2010.csv,,,England,,,,,,,,,,,,,,,9-11,mittel,ozeanisch,,,,,,,,,,
+climate_2010.csv,,,Scotland,,,,,,,,,,,,,,,6-8,hoch,kühl-ozeanisch,,,,,,,,,,
+climate_2010.csv,,,Wales,,,,,,,,,,,,,,,8-10,sehr hoch,feucht-ozeanisch,,,,,,,,,,
+climate_2010.csv,,,Northern Ireland,,,,,,,,,,,,,,,8-10,hoch,ozeanisch,,,,,,,,,,
+climate_2020.csv,,,,,,,,,,,,,,,,,,,,,9.6,1308,1495,Drittwärmstes Jahr seit 1884,"Starkregen, Überschwemmungen, Hitzewellen",,,,,
+resources_2020.csv,,,Nordsee / Scotland,,,,,,,,,,,,,,,,,,,,,,,Erdöl,Energieexporte,,,
+resources_2020.csv,,,Nordsee,,,,,,,,,,,,,,,,,,,,,,,Erdgas,Strom- und Energieversorgung,,,
+resources_2020.csv,,,Wales / Nordengland,,,,,,,,,,,,,,,,,,,,,,,Kohle,"früher wichtig, heute stark rückläufig",,,
+gdp_2020.csv,,,UK total,,,,,,,,,,,,,,,,,,,,,,,,,2720029,39403,0.3
+gdp_2020.csv,,,England,,,,,,,,,,,,,,,,,,,,,,,,,2329630,40382,0.5
+gdp_2020.csv,,,North East,,,,,,,,,,,,,,,,,,,,,,,,,77498,28583,1.7
+gdp_2020.csv,,,North West,,,,,,,,,,,,,,,,,,,,,,,,,270833,35635,1.1
+gdp_2020.csv,,,Yorkshire and The Humber,,,,,,,,,,,,,,,,,,,,,,,,,182509,32625,0.2
+gdp_2020.csv,,,East Midlands,,,,,,,,,,,,,,,,,,,,,,,,,156953,31446,0.1
+gdp_2020.csv,,,West Midlands,,,,,,,,,,,,,,,,,,,,,,,,,195208,32077,1.1
+gdp_2020.csv,,,East of England,,,,,,,,,,,,,,,,,,,,,,,,,229264,35442,0.9
+gdp_2020.csv,,,London,,,,,,,,,,,,,,,,,,,,,,,,,617915,69077,0.2
+gdp_2020.csv,,,South East,,,,,,,,,,,,,,,,,,,,,,,,,391807,41319,0.0
+gdp_2020.csv,,,South West,,,,,,,,,,,,,,,,,,,,,,,,,207643,35731,0.2
+gdp_2020.csv,,,Wales,,,,,,,,,,,,,,,,,,,,,,,,,92767,29316,0.6
+gdp_2020.csv,,,Scotland,,,,,,,,,,,,,,,,,,,,,,,,,204188,37192,0.7
+gdp_2020.csv,,,Northern Ireland,,,,,,,,,,,,,,,,,,,,,,,,,63265,32944,2.1
