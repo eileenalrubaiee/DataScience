@@ -1,0 +1,55 @@
+kategorie,merkmal,wert,einheit,quelle
+Geographie,Gesamtflaeche,41285,km²,EDA admin.ch 2024
+Geographie,Kuestenlaenge,0,km,EDA admin.ch 
+Geographie,Kuste_Land_Ratio,0.000,km pro km²,Berechnung (0 / 41285)
+Geographie,Grenzlaenge_gesamt,1935,km,EDA admin.ch 2024
+Geographie,Grenze_Wasseranteil,472,km,EDA admin.ch 2024
+Geographie,Ausdehnung_OstWest,348,km,EDA admin.ch 2024
+Geographie,Ausdehnung_NordSued,220,km,EDA admin.ch 2024
+Geographie,Hoehenausdehnung_min,193,m ü.M.,EDA admin.ch
+Geographie,Hoehenausdehnung_max,4634,m ü.M.,EDA admin.ch
+Gebirge,Alpen_Anteil_Flaeche,60,Prozent,EDA admin.ch 2024
+Gebirge,Mittelland_Anteil,31,Prozent,EDA admin.ch 2024
+Gebirge,Jura_Anteil,10,Prozent,EDA admin.ch 2024
+Gebirge,Dufourspitze,4634,m ü.M.,swisstopo.admin.ch
+Gebirge,Matterhorn,4478,m ü.M.,swisstopo.admin.ch
+Gebirge,Finsteraarhorn,4274,m ü.M.,swisstopo.admin.ch
+Gebirge,Jungfrau,4158,m ü.M.,swisstopo.admin.ch
+Gebirge,Titlis,3238,m ü.M.,swisstopo.admin.ch
+Gebirge,Saentis,2502,m ü.M.,swisstopo.admin.ch
+Gebirge,Anzahl_Viertausender,48,Anzahl,EDA admin.ch 2024
+Gebirge,Aletschgletscher_Laenge,23,km,EDA admin.ch 
+Fluss,Rhein_Laenge_CH,375,km,EDA admin.ch 2024
+Fluss,Rhein_Einzugsgebiet,185000,km²,BAFU bafu.admin.ch 2023
+Fluss,Aare_Laenge,295,km,BAFU bafu.admin.ch 2023
+Fluss,Aare_Einzugsgebiet,17700,km²,BAFU bafu.admin.ch 2023
+Fluss,Rhone_Laenge_CH,264,km,BAFU bafu.admin.ch 2023
+Fluss,Rhone_Einzugsgebiet_CH,10300,km²,BAFU bafu.admin.ch 2023
+Fluss,Inn_Laenge_CH,104,km,BAFU bafu.admin.ch 2023
+Fluss,Ticino_Laenge_CH,91,km,BAFU bafu.admin.ch 2023
+Fluss,Anzahl_Seen,1500,Anzahl,EDA admin.ch 2024
+Fluss,Genfersee_Flaeche_CH,345,km²,BAFU bafu.admin.ch 2023
+Fluss,Bodensee_Flaeche_CH,173,km²,BAFU bafu.admin.ch 2023
+Klima,Jahrestemperatur_national,6.9,Grad C,MeteoSchweiz 2020
+Klima,Temperatur_Mittelland_Januar,1.0,Grad C,MeteoSchweiz 2020
+Klima,Temperatur_Mittelland_Juli,17.0,Grad C,MeteoSchweiz 2020
+Klima,Temperatur_Lugano,13.7,Grad C,MeteoSchweiz Referenzperiode 1981-2010
+Klima,Temperatur_Samedan,3.0,Grad C,MeteoSchweiz Referenzperiode 1981-2010
+Klima,Niederschlag_min,543,mm pro Jahr,MeteoSchweiz
+Klima,Niederschlag_max,2840,mm pro Jahr,MeteoSchweiz
+Klima,Niederschlag_Mittelland,1050,mm pro Jahr,MeteoSchweiz 2020
+Klima,Rekordtemperatur,41.5,Grad C,MeteoSchweiz 
+Landnutzung,Landwirtschaft,36,Prozent,BFS Arealstatistik 2024
+Landnutzung,Wald,30,Prozent,BFS Arealstatistik 2024
+Landnutzung,Siedlung,8,Prozent,BFS Arealstatistik 2024
+Landnutzung,Gewaesser,4,Prozent,BFS Arealstatistik 2024
+Landnutzung,Unproduktiv_Fels_Gletscher,22,Prozent,BFS Arealstatistik 2024
+Landnutzung,Wirtschaftlich_nutzbar,44,Prozent,Berechnung (LW + Siedlung)
+Landnutzung,Produktive_LW_Flaeche,10400,km²,BFS Landwirtschaftliche Betriebsstruktur 2020
+Landnutzung,Anzahl_LW_Betriebe,32871,Anzahl,BFS Landwirtschaftliche Betriebsstruktur 2020
+Rohstoffe,Wasser_Anteil_Europa,6,Prozent,EDA admin.ch 2024
+Rohstoffe,Wasserkraft_Anteil_Strom,56,Prozent,BFE Bundesamt für Energie 2023
+Rohstoffe,Holznutzung,10.5,Mio m³ pro Jahr,BAFU Holznutzung Schweiz 2022
+Rohstoffe,Zementwerke_Anzahl,6,Anzahl,swisstopo.admin.ch
+Rohstoffe,Salz_Foerderung,500000,Tonnen pro Jahr,schweizer-salinen.ch 2023
+Rohstoffe,Erdoel_Erdgas,kein Vorkommen,–,swisstopo.admin.ch
