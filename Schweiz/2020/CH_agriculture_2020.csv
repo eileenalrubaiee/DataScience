@@ -1,27 +1,28 @@
-Kantone,Landwirtschaft_tsd_ha,Anteil_Prozent,Flaeche_tsd_ha
-Zürich,98.6,33.7,292.5
-Bern,256.0,40.0,640.0
-Luzern,100.8,46.7,215.8
-Uri,18.5,13.4,138.1
-Schwyz,44.9,28.9,155.5
-Obwalden,16.5,26.0,63.5
-Nidwalden,14.4,33.5,43.0
-Glarus,16.8,21.0,80.0
-Zug,17.8,40.7,43.7
-Freiburg,122.0,44.6,273.5
-Solothurn,50.0,38.5,129.8
-Basel-Stadt,0.7,4.9,14.3
-Basel-Landschaft,31.0,39.0,79.5
-Schaffhausen,25.2,54.9,45.9
-Appenzell Ausserrhoden,17.5,42.0,41.6
-Appenzell Innerrhoden,10.2,41.6,24.5
-St. Gallen,102.0,32.4,314.9
-Graubünden,143.0,9.7,1474.0
-Aargau,74.0,42.8,173.0
-Thurgau,68.9,48.2,143.0
-Tessin,34.0,11.7,291.2
-Waadt,184.0,54.7,336.2
-Wallis,85.3,17.3,493.0
-Neuenburg,38.0,39.0,97.5
-Genf,16.0,37.2,43.0
-Jura,50.0,57.5,87.0
+Canton,Agricultural land in thousand ha,Total land in thousand ha
+Zürich,98.6,292.5
+Bern,256.0,640.0
+Luzern,100.8,215.8
+Uri,18.5,138.1
+Schwyz,44.9,155.5
+Obwalden,16.5,63.5
+Nidwalden,14.4,43.0
+Glarus,16.8,80.0
+Zug,17.8,43.7
+Freiburg,122.0,273.5
+Solothurn,50.0,129.8
+Basel-Stadt,0.7,14.3
+Basel-Landschaft,31.0,79.5
+Schaffhausen,25.2,45.9
+Appenzell Ausserrhoden,17.5,41.6
+Appenzell Innerrhoden,10.2,24.5
+St. Gallen,102.0,314.9
+Graubünden,143.0,1474.0
+Aargau,74.0,173.0
+Thurgau,68.9,143.0
+Ticino,34.0,291.2
+Vaud,184.0,336.2
+Valais,85.3,493.0
+Neuchâtel,38.0,97.5
+Geneva,16.0,43.0
+Jura,50.0,87.0
+Switzerland,1034.2,4128.5
